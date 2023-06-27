@@ -1,0 +1,24 @@
+{
+  "name": "tpi_blog_frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./style.css -o ./css/main.css",
+    "watch": "tailwindcss -i ./style.css -o ./css/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Babasulaiman/TPI_BLOG_frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Babasulaiman/TPI_BLOG_frontend/issues"
+  },
+  "homepage": "https://github.com/Babasulaiman/TPI_BLOG_frontend#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
