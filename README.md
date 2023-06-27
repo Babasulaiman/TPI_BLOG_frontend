@@ -1,0 +1,1 @@
+tailwind Config file added
